@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("projeto jogo Ascii")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+713dfa4fb23ee3088fcde211987d9f4f93239321")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+852d6d7ea69a172953fe854edfcb09bba5dd180c")]
 [assembly: System.Reflection.AssemblyProductAttribute("projeto jogo Ascii")]
 [assembly: System.Reflection.AssemblyTitleAttribute("projeto jogo Ascii")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

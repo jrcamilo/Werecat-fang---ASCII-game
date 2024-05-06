@@ -12,3 +12,4 @@ C:\Users\lrcam\Documents\Projetos\c#\jogo Ascii\projeto jogo Ascii\obj\Debug\net
 C:\Users\lrcam\Documents\Projetos\c#\jogo Ascii\projeto jogo Ascii\obj\Debug\net8.0\projeto jogo Ascii.pdb
 C:\Users\lrcam\Documents\Projetos\c#\jogo Ascii\projeto jogo Ascii\obj\Debug\net8.0\projeto jogo Ascii.genruntimeconfig.cache
 C:\Users\lrcam\Documents\Projetos\c#\jogo Ascii\projeto jogo Ascii\obj\Debug\net8.0\ref\projeto jogo Ascii.dll
+C:\Users\lrcam\Documents\Projetos\c#\jogo Ascii\projeto jogo Ascii\obj\Debug\net8.0\projeto jogo Ascii.sourcelink.json
